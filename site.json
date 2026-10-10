@@ -5,25 +5,25 @@
   "pages": [
     {
       "id": "accueil",
-      "title": "Accueil",
+      "title": "LSPD",
       "blocks": [
         {
           "type": "heading",
-          "text": "Bienvenue au LSPD"
+          "text": "Los Santos Police Department"
         },
         {
           "type": "text",
-          "text": "Le portail du département. Retrouvez ici les informations et les ressources mises à disposition des agents."
+          "text": "Ceci est le portail du LSPD. Retrouvez toutes les informations et ressources mises à disposition des agents. "
         },
         {
           "type": "callout",
-          "text": "Ce site est votre espace : ajoutez vos pages, vos textes et vos images depuis Administration."
+          "text": "N'hésitez pas à être curieux, et aller voir tout ce qui est disponible"
         },
         {
           "type": "image",
           "src": "assets/image-221676c5-2289-4629-8924-03aa3f0f0386.png",
           "alt": "Logo du LSPD",
-          "caption": "Test"
+          "caption": ""
         }
       ]
     },
@@ -38,6 +38,93 @@
         {
           "type": "text",
           "text": "Ajoutez vos supports de formation et vos documents utiles aux Rookies."
+        }
+      ]
+    },
+    {
+      "id": "ten-codes",
+      "title": "Ten Codes",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Ten Codes"
+        },
+        {
+          "type": "text",
+          "text": "Ajoutez ici les codes radio et leurs significations."
+        }
+      ]
+    },
+    {
+      "id": "vehicules",
+      "title": "Véhicules",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Parc automobile du LSPD"
+        }
+      ]
+    },
+    {
+      "id": "divisions",
+      "title": "Divisions",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Les divisions du LSPD"
+        },
+        {
+          "type": "division",
+          "title": "K9",
+          "text": "",
+          "src": "",
+          "alt": "Logo K9"
+        },
+        {
+          "type": "division",
+          "title": "LSPA",
+          "text": "",
+          "src": "",
+          "alt": "Logo LSPA"
+        },
+        {
+          "type": "division",
+          "title": "Media Relation Division",
+          "text": "",
+          "src": "",
+          "alt": "Logo Media Relation Division"
+        },
+        {
+          "type": "division",
+          "title": "Traffic Division",
+          "text": "",
+          "src": "",
+          "alt": "Logo Traffic Division"
+        },
+        {
+          "type": "division",
+          "title": "SOC — Special Operations Command",
+          "text": "La SOC regroupe la CIU et le NOOSE.",
+          "src": "",
+          "alt": "Logo SOC"
+        },
+        {
+          "type": "heading",
+          "text": "Unités de la SOC"
+        },
+        {
+          "type": "division",
+          "title": "CIU",
+          "text": "",
+          "src": "",
+          "alt": "Logo CIU"
+        },
+        {
+          "type": "division",
+          "title": "NOOSE",
+          "text": "",
+          "src": "",
+          "alt": "Logo NOOSE"
         }
       ]
     }
