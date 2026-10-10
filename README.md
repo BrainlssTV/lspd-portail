@@ -33,3 +33,9 @@ L’emblème étoilé est provisoire : ce n’est pas le logo officiel du LSPD. 
 ## Consultation
 La version GitHub Pages et son code sont publics. Ne pas y ajouter d’informations internes confidentielles. Les fiches ne sont pas modifiables par les visiteurs : l’édition s’effectue depuis le dépôt GitHub.
 La navigation utilise des ancres (`#rookie`) pour rester compatible avec GitHub Pages. Ouvrir `index.html` permet également une consultation locale.
+
+## Éditeur directement sur le site
+Ouvrir Administration dans l’en-tête du portail. Créer un jeton GitHub à granularité fine, limité au dépôt BrainlssTV/lspd-portail, avec Contents : Read and write. Coller ce jeton uniquement dans la page d’administration, jamais dans un fichier ou dans une conversation. La clé n’est pas stockée : elle reste en mémoire dans cet onglet. Les visiteurs peuvent ouvrir la page d’administration, mais GitHub refuse toute publication sans un jeton autorisé. Il ne s’agit pas d’une connexion par mot de passe du portail.
+L’éditeur charge les contenus les plus récents du dépôt. Enregistrer prépare un brouillon ; Publier écrit contenu.js sur la branche par défaut avec un commit GitHub. Les changements apparaissent après le déploiement GitHub Pages. Les conflits sont bloqués : conserver les textes du brouillon puis recharger avant de reprendre.
+En cas d’erreur réseau pendant la publication, vérifier le dépôt avant de recommencer : la requête pourrait avoir réussi. Les restrictions de branche peuvent empêcher la publication directe.
+Pour installer cette version, remplacer index.html et importer admin.html, admin.css et admin.js ; les autres fichiers restent compatibles. Faire Commit puis Push dans GitHub Desktop. Si des modifications ont déjà été faites dans contenu.js, conserver votre version.
