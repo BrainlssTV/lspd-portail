@@ -273,6 +273,10 @@
       "title": "Divisions",
       "blocks": [
         {
+          "type": "callout",
+          "text": "Division mineures : K9 - MRD - TD\nDivision mineures BIS : LSPA (Officier II minimum)\nDivisions majeures : BI & NOOSE\n\nOFFICIER I : Une division mineure \nOFFICIER II : Une division mineure + une division majeure\nOFFICIER III et plus : Une division majeure + deux divisions mineures "
+        },
+        {
           "type": "heading",
           "text": "Les divisions du LSPD"
         },
