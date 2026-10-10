@@ -112,7 +112,7 @@
     },
     {
       "id": "vehicules",
-      "title": "Véhicules",
+      "title": "​🚓​ Véhicules",
       "blocks": [
         {
           "type": "callout",
@@ -270,7 +270,7 @@
     },
     {
       "id": "divisions",
-      "title": "Divisions",
+      "title": "🏋️‍♂️ Divisions",
       "blocks": [
         {
           "type": "callout",
