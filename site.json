@@ -29,7 +29,7 @@
     },
     {
       "id": "rookie",
-      "title": "Espace Rookie",
+      "title": "👮🏿​ La Bible du Rookie ",
       "blocks": [
         {
           "type": "heading",
@@ -279,35 +279,35 @@
         {
           "type": "division",
           "title": "K9",
-          "text": "",
+          "text": "La K9 Unit est une division d’élite spécialisée dans les opérations assistées par chiens d’intervention et de détection. Grâce à l’entraînement intensif de ses maîtres-chiens et de leurs partenaires canins, la K9 représente une force redoutable au service de la sécurité publique. Les chiens de la K9 sont formés pour différentes missions :\n- Recherche de stupéfiants\n- Détection d’armes ou d’explosifs\n- Roursuite de suspects\n- Recherche de personnes disparues et soutien tactique lors d’interventions sensibles. \n\nChaque binôme maître-chien développe une relation basée sur la confiance, la précision et l’obéissance, permettant des interventions rapides et contrôlées même dans les situations les plus complexes. Respectée pour son professionnalisme et son impact opérationnel, la K9 Unit agit comme un soutien indispensable aux forces de l’ordre sur le terrain. Son engagement, sa rigueur et sa capacité d’adaptation font de cette division une composante essentielle dans le maintien de l’ordre et la protection des citoyens.\n\nLee Long - OFF III 10",
           "src": "assets/image-08adcc5a-7efc-47eb-bd15-ac19d4e65324.png",
           "alt": "Logo K9"
         },
         {
           "type": "division",
-          "title": "LSPA",
-          "text": "",
+          "title": "Los Santos Police Academy",
+          "text": "La LSPA est le point de départ de chaque futur officier du Los Santos Police Department. Encadrés par des instructeurs expérimentés, les recrues y apprennent les valeurs fondamentales du service : discipline, respect, maîtrise et engagement envers la population. Entre formation théorique, entraînements pratiques et mises en situation, l’Academy prépare chaque Rookie à servir et protéger la ville de Los Santos avec professionnalisme et honneur.\n\nRomy Langford - SGT 96",
           "src": "assets/image-9f5e833f-eea2-44d1-9713-cca1f7c8f78d.png",
           "alt": "Logo LSPA"
         },
         {
           "type": "division",
           "title": "Media Relation Division",
-          "text": "",
+          "text": "La MRD – Media Relation Division est une unité spécialisée dans la gestion de l’image, de la communication et des relations publiques au sein de la ville. Chargée de couvrir les événements majeurs, diffuser les informations officielles et assurer le lien entre les institutions, les médias et la population, la MRD joue un rôle essentiel dans la transparence et la circulation de l’information. Composée de journalistes, cameramen, photographes, présentateurs et responsables communication, la division intervient sur les scènes importantes : conférences de presse, interventions des services publics, événements citoyens, reportages exclusifs ou encore situations de crise. Grâce à une présence constante sur le terrain, la MRD garantit une couverture rapide, professionnelle et crédible de l’actualité. Au-delà de l’information, la MRD représente aussi une vitrine médiatique moderne et influente, capable de mettre en avant les initiatives locales, valoriser les organisations et créer un véritable lien entre les habitants et les acteurs de la ville. Discipline, neutralité, réactivité et professionnalisme sont les piliers fondamentaux de la Media Relation Division.\n\nSuperviseurs et Haut Gradés - LSPD",
           "src": "assets/image-695dd168-f165-4a2e-92e5-0303a64d86bb.png",
           "alt": "Logo Media Relation Division"
         },
         {
           "type": "division",
           "title": "Traffic Division",
-          "text": "",
+          "text": "La Traffic Division est une unité spécialisée dans les interventions routières, les poursuites à haute vitesse et le contrôle de la circulation au sein de la ville. Composée d’agents formés à la conduite tactique et aux interventions rapides, cette division assure la sécurité des axes routiers tout en intervenant efficacement face aux comportements dangereux et aux délits liés aux véhicules. Équipée de véhicules performants et adaptés aux poursuites rapides, la Traffic Division est souvent mobilisée lors des courses-poursuites, contrôles routiers, escortes officielles et opérations de sécurisation des zones à forte circulation. Grâce à leur maîtrise de la conduite à haute vitesse et à leur coordination radio exemplaire, les agents de cette unité sont capables de réagir rapidement dans les situations les plus critiques. Au-delà des interventions dynamiques, la Traffic Division joue également un rôle important dans la prévention routière et le maintien de l’ordre sur les routes de la ville. Discipline, sang-froid, précision et réactivité sont les qualités qui définissent cette unité essentielle au bon fonctionnement des services de sécurité.\n\nJeffery Turbs - OFF II 29",
           "src": "assets/image-f0431ee4-fc47-4d4a-9a1d-33a9222f5836.png",
           "alt": "Logo Traffic Division"
         },
         {
           "type": "division",
           "title": "SOC — Special Operations Command",
-          "text": "La SOC regroupe la CIU et le NOOSE.",
+          "text": "\nLe SOC représente le plus haut niveau d'expertise du LSPD. Il regroupe des agents rigoureusement sélectionnés pour leurs compétences, leur professionnalisme et leur capacité à intervenir sur les affaires les plus complexes de San Andreas.\n\nContrairement aux autres unités spécialisées, le SOC ne constitue pas une simple équipe d'intervention ou d'investigation. Il est un Commandement, réunissant deux branches complémentaires qui travaillent en permanence de concert.\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n• Criminalité organisée\n• Motorcycle Clubs et gangs\n• Terrorisme\n• Prises d'otages\n• Braquages majeurs\n• Arrestations à haut risque\n• Enquêtes prioritaires\n• Mandats sensibles\n• Protection de personnalités\n• Opérations spéciales\n\nChaque intervention du SOC repose sur une préparation approfondie, une coordination exemplaire et un objectif unique : garantir la sécurité de Los Santos tout en assurant le respect des procédures judiciaires.\n\nCaleb Sharp - CHIEF 02",
           "src": "assets/image-7fcc53f4-1e9a-40eb-966d-a489029faa28.png",
           "alt": "Logo SOC"
         },
@@ -318,14 +318,15 @@
         {
           "type": "division",
           "title": "BI",
-          "text": "",
+          "text": "Le Bureau d'Investigation est à la recherche de nouveaux agents pour intégrer le BI.\nNos missions : \n🕵️ Enquêtes \n🕵️ Gestion des plaintes \n🕵️ Interrogatoires \n🕵️ Recherche d'individus sous mandat de recherche/D'arrêt \n🕵️ Intervention sur les ventes et trafics de stupéfiants \n🕵️ Patrouilles banalisés pour démanteler les transactions illégales et rassemblements suspects \n🕵️ Criminologie Criminel\n\nEsmée Cooper - LTN 34",
           "src": "assets/image-0488f855-1b0a-4b0a-8d6e-bec6ec5fa9ec.png",
-          "alt": "Logo BI"
+          "alt": "Logo BI",
+          "caption": ""
         },
         {
           "type": "division",
           "title": "NOOSE",
-          "text": "",
+          "text": "Le NOOSE (National Office Of Security Enforcement) est une unité tactique d’élite spécialisée dans les interventions à haut risque et les opérations de contre-terrorisme. Comparable aux équipes SWAT, cette division intervient uniquement lors des situations les plus critiques nécessitant une force de frappe importante, une coordination parfaite et une maîtrise totale du terrain. Composée d’opérateurs hautement entraînés, le NOOSE est mobilisée lors de prises d’otages, attaques armées, braquages majeurs, assauts tactiques, neutralisation de criminels dangereux ou opérations anti-terroristes. Équipée d’armes spécialisées, de blindés et de matériel tactique avancé, l’unité agit avec rapidité, précision et discipline afin de sécuriser les civils et neutraliser les menaces. Les membres du NOOSE suivent un entraînement intensif axé sur le combat rapproché, les interventions urbaines, les stratégies d’assaut et la gestion de crise. Leur professionnalisme, leur sang-froid et leur efficacité font de cette unité l’une des forces les plus redoutées et respectées de la ville. Toujours prête à intervenir dans les situations extrêmes, le NOOSE représente la dernière ligne de défense face aux menaces majeures mettant en danger la sécurité publique.\n\nJarvis Cooper - LTN 23",
           "src": "assets/image-377065f2-3f47-4bba-9cde-6d7cb0d1fafa.png",
           "alt": "Logo NOOSE"
         }
