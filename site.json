@@ -33,11 +33,66 @@
       "blocks": [
         {
           "type": "heading",
-          "text": "Votre formation commence ici."
+          "text": "VOTRE FORMATION COMMENCE ICI ! "
+        },
+        {
+          "type": "link",
+          "text": "GUIDE DE LA JUSTICE - Ensemble des codes de loi ",
+          "url": "https://docs.google.com/spreadsheets/d/1sywM0aI_KFEXTuX656whu48QGEIslPAh8V6_AhJFeyQ/edit?gid=107672604#gid=107672604"
         },
         {
           "type": "text",
-          "text": "Ajoutez vos supports de formation et vos documents utiles aux Rookies."
+          "text": ""
+        },
+        {
+          "type": "link",
+          "text": "💻​ CENTRALE SAPD  - Effectifs / Dispatch / Carte",
+          "url": "https://sapd.storylife.fr/centrale"
+        },
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "link",
+          "text": "💼​ INTRANET DU GOUVERNEMENT - Pour vos procédures judiciaires",
+          "url": "https://discord.gg/H7c75xjz"
+        },
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "link",
+          "text": "📰 JOURNAL DE BORD - Toutes les informations utiles pour vos patrouilles et procédures",
+          "url": "https://docs.google.com/spreadsheets/d/11JlEcWOclmsIG5Xuiofkjq8_vlZhskctJax2dRmQaNY/edit?gid=0#gid=0"
+        },
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "link",
+          "text": "👨‍⚕️​RENDEZ VOUS MEDICAL - Prise de rendez vous",
+          "url": "https://ems.storylife.fr/rendezvous"
+        },
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "link",
+          "text": "🔥​​GUIDE ULTIME DU ROOKIE - Touuuuuuuut ce que vous devez savoir à votre intégration ! ",
+          "url": "https://canva.link/1ds3lnbo61u4hbc"
+        },
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "link",
+          "text": "⚠️REGLEMENT INTERIEUR LSPD",
+          "url": "https://docs.google.com/document/d/1xaWzYpIlzwsvT9yvAbQiQCuZbhCVeibVbgsXTZYD6mU/edit?usp=sharing"
         }
       ]
     },
