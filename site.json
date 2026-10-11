@@ -418,6 +418,10 @@
           "text": "Comparution"
         },
         {
+          "type": "callout",
+          "text": "Pour les opérations suivantes : Braquage de Bijouterie, Braquage de Train, Braquage de Banque, Braquage de Yacht \nEt SEULEMENT pour ces opérations là, \n\nSi l'individu plaide coupable pour la globalité des chefs d'accusations qui lui sont reprochés, vous appliquez la peine nominale et suivez les consignes ci dessous sans effectuer de demande de comparution. "
+        },
+        {
           "type": "text",
           "text": "Vous êtes intervenu sur une opération de plus grande envergure (Braquage de Bijouterie, prise d'otage, Braquage de train, enlèvement & sequestration, tentative d'homicide...)\n\nJ'effectue une demande de comparution sur l'intranet Gouvernement, en indiquant : \nNom :\nPrénom : \nAgent en charge : \nAvocat : Oui ou Non @avocats (On mentionne les avocats meme si le suspect dit non)\nMotif : On liste les chefs d'accusations en VERIFIANT leur dénomination sur le code pénal ou guide de la justice\nHeure d'arrestation : \nHeure de lecture des droits : \n@procureur LSC\n\nDélais autorisés : \n- Le procureur a 10 minutes pour réagir à la comparution, sans quoi c'est un Superviseur ou Haut Gradé qui s'en occupe\n- L'avocat a 10 minutes pour réagir à la comparution, et 15 minutes avec son client une fois arrivé au poste. \n\nUne fois la comparution terminée, vous appliquez l'amende nommée par le procureur sur la fiche de comparution.\nSi le temps de prison est inférieur à 60 minutes = Demande de transfert à la SAHP\nSi le temps de prison est de 60 minutes ou + : Bracelet, puis le coupable choisit un jour de prison, et vous le notifiez dans suivi prison. \nVous rentrez dans les deux cas, le casier judiciaire sur la centrale, et appliquez l'amende. \n "
         },
