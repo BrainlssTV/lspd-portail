@@ -341,6 +341,10 @@
       "title": "🗃️ Grades & Hiérarchie",
       "blocks": [
         {
+          "type": "callout",
+          "text": "Aucun grade n'est du, ni acquis indéfiniment.\nA chaque grade sont affectés des avantages, mais surtout des obligations et des responsabilités. \nSi vous ne correspondez plus à ces attentes, alors les décisions adéquates seront prises. "
+        },
+        {
           "type": "heading",
           "text": "Haut Gradés"
         },
@@ -372,7 +376,7 @@
     },
     {
       "id": "page-mv31flad-mtok",
-      "title": "Procédures",
+      "title": "​🔐​ Procédures",
       "blocks": [
         {
           "type": "callout",
