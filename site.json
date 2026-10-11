@@ -422,8 +422,33 @@
     },
     {
       "id": "page-mv31lgnb-fwug",
-      "title": "Nouvelle page",
-      "blocks": []
+      "title": "Formations / Spécialités",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Négociateur"
+        },
+        {
+          "type": "text",
+          "text": "La spécialité Négociateur forme les agents à gérer les situations de crise par le dialogue. Écoute, sang-froid et analyse permettent d’établir un contact avec les individus, de réduire les tensions et de rechercher une issue préservant la sécurité des personnes."
+        },
+        {
+          "type": "heading",
+          "text": "Premiers secours"
+        },
+        {
+          "type": "text",
+          "text": "La formation Premiers Secours enseigne les gestes essentiels pour porter assistance à une personne blessée ou en détresse. Les agents apprennent à sécuriser les lieux, évaluer l’état d’une victime, alerter les EMS et effectuer les premiers gestes adaptés en attendant leur arrivée."
+        },
+        {
+          "type": "heading",
+          "text": "Armes de catégorie 3"
+        },
+        {
+          "type": "text",
+          "text": "La formation Catégorie 3 prépare les agents à l’utilisation du Remington et de la MP5. Elle porte sur la manipulation sécurisée, la maîtrise du tir et les conditions d’emploi de ces armes en intervention. Elle rappelle les exigences de discernement, de proportionnalité et de respect des consignes opérationnelles."
+        }
+      ]
     }
   ]
 }
