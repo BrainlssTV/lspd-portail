@@ -48,7 +48,7 @@
         },
         {
           "type": "link",
-          "text": "GUIDE DE LA JUSTICE - Ensemble des codes de loi ",
+          "text": "​⚖️​ GUIDE DE LA JUSTICE - Ensemble des codes de loi ",
           "url": "https://docs.google.com/spreadsheets/d/1sywM0aI_KFEXTuX656whu48QGEIslPAh8V6_AhJFeyQ/edit?gid=107672604#gid=107672604"
         },
         {
@@ -118,6 +118,56 @@
         {
           "type": "text",
           "text": " — COMMUNICATIONS RADIO\n\nLes Ten Codes permettent de transmettre rapidement une information à la radio. Ils facilitent la coordination entre les agents, les patrouilles et le dispatch.\n\nChaque transmission doit être courte, claire et précise : indiquez votre matricule ou votre patrouille, le code utilisé, votre position et les informations nécessaires.\n\n\n🔵 SERVICE ET PATROUILLE\n\n10-6 → Pause de service\n10-7 → Prise de service\n10-8 → Fin de service\n10-12 → En attente du dispatch\n10-41 → Début de patrouille\n10-42 → Fin de patrouille\n10-53 → Patrouille hors service, impossible de repartir\n\n\n📻 COMMUNICATIONS ET DÉPLACEMENTS\n\n10-4 → Bien reçu / Affirmatif\n10-5 → Négatif\n10-9 → Répétez votre message\n10-17 → En route / Prise en charge de l’appel\n10-18 → Urgent : terminez rapidement votre mission\n10-19 → Retour au poste — préciser si vous transportez un suspect et le poste concerné \n10-20 → Position géographique orale\n10-21 → Demande d’appel téléphonique\n10-22 → Fin d’intervention / Reprise de l’activité normale\n10-23 → Arrivée sur les lieux\n10-24 → Position géographique précise (écrite, demande de renfort mineure)\n10-43 → Demande d’information\n10-76 → En route vers la position indiquée\n\n\n🚔 INTERVENTIONS ET RENFORTS\n\n10-15 → Suspect arrêté\n10-16 → Récupération d’un prisonnier\n10-24 → Demande de renfort\n10-25 → Annulation de la demande de renfort / Situation sous contrôle\n10-30 → Poursuite / Refus d’obtempérer / Délit de fuite\n10-32 → Individu armé\n10-39 → Braquage en cours \n10-40 → Vente de stupéfiants\n10-48 → Contrôle routier en cours\n10-74 → Vol en flagrant délit / Cambriolage / Piratage d’un ATM\n\n\n🚑 ASSISTANCE ET CONVOIS\n\n10-50 → Accident / Collision routière\n10-51 → Besoin d’une assistance de dépannage\n10-52 → Besoin d’une ambulance\n10-59 → Escorte / Convoi\n\n\n📍 CODES DE SITUATION\n\nCode 4 → Zone sécurisée / Menace interpellée\nCode 5 → Surveillance en cours sur une zone ou un quartier\nCode 6 → Sortie du véhicule pour investigation des lieux\n\n\n🚨 10-99 / CODE 99 — OFFICIER EN DANGER\n\nToutes les unités doivent venir en renfort. Communiquez immédiatement votre position pour permettre aux patrouilles de rejoindre les lieux. \nIl n'est cependant pas autorisé d'abandonner des otages, ou une procédure en cours. \n\n\n🚨 Demande de renforts\n\nMineure : Souhait de donner une position\nMoyenne : Besoin de renfort sur place, une à deux patrouilles, accompagné d'un call radio\nUrgent : Si danger de mort imminent pour un agent des services publics ! \n"
+        }
+      ]
+    },
+    {
+      "id": "page-mv31flad-mtok",
+      "title": "​🔐​ Procédures",
+      "blocks": [
+        {
+          "type": "callout",
+          "text": "Les procédures se doivent d'être respectées. Nul ne peut les outrepasser, ou les modifier, sans l'aval d'un Haut Gradé ou d'un Procureur. "
+        },
+        {
+          "type": "callout",
+          "text": "Monsieur XX,  Madame XX, vous êtes en état d'arrestation. Vous avez le droit de garder le silence. Si vous renoncez à ce droit, tout ce que vous direz sera utilisé contre vous devant une cour de justice. Vous avez le droit à un avocat, une assistance médicale, ainsi qu'à boire et à manger en quantités suffisantes. \nSouhaitez vous exercez l'un de ces droits ? \nSouhaitez vous être assisté d'un avocat ? \n\nLes droits n'ont pas besoin d'être lus de nouveau avec le prénom/nom, ni les chefs d'accusations.\n\n🚨Les chefs d'accusations doivent cependant être énoncés au suspect avant la comparution ou décision 🚨\n\n"
+        },
+        {
+          "type": "heading",
+          "text": "Procédure d'arrestation"
+        },
+        {
+          "type": "text",
+          "text": "- Interpellation de l'individu\n- Palpation de sécurité \n- Retrait des libertés de l'individu (Menottes ou serflex)\n- Direction le poste de Police (ADAM XX / 10-19 Mission Row avec un 10-15). \n- Lecture des droits Mirandas en voiture, au poste, ou sur le lieu de l'arrestation\n- Fouille complète de l'individu\n- Vérification du recensement\n- Photo au mugshot \n- Mise en cellule \n- Faim ? Soif ? Avocat ? \n\n🚨Pour la suite, référez vous aux cas ci dessous 🚨"
+        },
+        {
+          "type": "heading",
+          "text": "Procédure standard"
+        },
+        {
+          "type": "text",
+          "text": "Vous êtes intervenu sur une intervention dite \"standard\", soit avec une peine de moins de 30 minutes de prison (Braquage de Superette, Ammu-Nation, refus d'Obtempérer, Possession illégale d'arme létale, injures, racisme...)\n\nVous énoncez les chefs d'accusation à l'individu en cellule, et lui demandez s'il plaide coupable ou non.\n\nS'il plaide coupable, vous appliquez la peine nominale, donc amende + casier sur la centrale.\nVous envoyez l'individu à Bollingbroke via les internes, en le notifiant sur l'intranet Gouvernement : Bollingbroke-state-prison. \n\n⬇️​ Motifs pour passer au cas suivant ⬇️​\n- Suspect mineur\n- Suspect handicapé mentalement \n- L'individu plaide non coupable\n- La peine indique dans le guide de la justice, \"procureur\" \n- Le suspect demande un avocat "
+        },
+        {
+          "type": "heading",
+          "text": "Comparution"
+        },
+        {
+          "type": "callout",
+          "text": "Pour les opérations suivantes : Braquage de Bijouterie, Braquage de Train, Braquage de Banque, Braquage de Yacht \nEt SEULEMENT pour ces opérations là, \n\nSi l'individu plaide coupable pour la globalité des chefs d'accusations qui lui sont reprochés, vous appliquez la peine nominale et suivez les consignes ci dessous sans effectuer de demande de comparution. "
+        },
+        {
+          "type": "text",
+          "text": "Vous êtes intervenu sur une opération de plus grande envergure (Braquage de Bijouterie, prise d'otage, Braquage de train, enlèvement & sequestration, tentative d'homicide...)\n\nJ'effectue une demande de comparution sur l'intranet Gouvernement, en indiquant : \nNom :\nPrénom : \nAgent en charge : \nAvocat : Oui ou Non @avocats (On mentionne les avocats meme si le suspect dit non)\nMotif : On liste les chefs d'accusations en VERIFIANT leur dénomination sur le code pénal ou guide de la justice\nHeure d'arrestation : \nHeure de lecture des droits : \n@procureur LSC\n\nDélais autorisés : \n- Le procureur a 10 minutes pour réagir à la comparution, sans quoi c'est un Superviseur ou Haut Gradé qui s'en occupe\n- L'avocat a 10 minutes pour réagir à la comparution, et 15 minutes avec son client une fois arrivé au poste. \n\nUne fois la comparution terminée, vous appliquez l'amende nommée par le procureur sur la fiche de comparution.\nSi le temps de prison est inférieur à 60 minutes = Demande de transfert à la SAHP\nSi le temps de prison est de 60 minutes ou + : Bracelet, puis le coupable choisit un jour de prison, et vous le notifiez dans suivi prison. \nVous rentrez dans les deux cas, le casier judiciaire sur la centrale, et appliquez l'amende. \n "
+        },
+        {
+          "type": "heading",
+          "text": "Tribunal"
+        },
+        {
+          "type": "text",
+          "text": "Vous êtes intervenu sur une opération très lourde (Terrorisme etc...), ou la peine indiquée est stipulée \"Tribunal\", alors vous placez le suspect en cellule, écrivez une demande de comparution en mentionnant la \"Cour Supreme\". Vous respectez ensuite les consignes. \n"
         }
       ]
     },
@@ -382,56 +432,6 @@
         {
           "type": "callout",
           "text": "📌 RESPONSABILITÉS COMMUNES\n\nQuel que soit son grade, chaque agent doit respecter les procédures, rendre compte de ses actions et adopter une attitude professionnelle. Toute difficulté doit être signalée à l’échelon supérieur direct, sauf urgence ou situation nécessitant un autre interlocuteur.\n\nLe grade implique une responsabilité : plus un agent monte dans la hiérarchie, plus il doit accompagner les autres, assumer ses décisions et montrer l’exemple."
-        }
-      ]
-    },
-    {
-      "id": "page-mv31flad-mtok",
-      "title": "​🔐​ Procédures",
-      "blocks": [
-        {
-          "type": "callout",
-          "text": "Les procédures se doivent d'être respectées. Nul ne peut les outrepasser, ou les modifier, sans l'aval d'un Haut Gradé ou d'un Procureur. "
-        },
-        {
-          "type": "callout",
-          "text": "Monsieur XX,  Madame XX, vous êtes en état d'arrestation. Vous avez le droit de garder le silence. Si vous renoncez à ce droit, tout ce que vous direz sera utilisé contre vous devant une cour de justice. Vous avez le droit à un avocat, une assistance médicale, ainsi qu'à boire et à manger en quantités suffisantes. \nSouhaitez vous exercez l'un de ces droits ? \nSouhaitez vous être assisté d'un avocat ? \n\nLes droits n'ont pas besoin d'être lus de nouveau avec le prénom/nom, ni les chefs d'accusations.\n\n🚨Les chefs d'accusations doivent cependant être énoncés au suspect avant la comparution ou décision 🚨\n\n"
-        },
-        {
-          "type": "heading",
-          "text": "Procédure d'arrestation"
-        },
-        {
-          "type": "text",
-          "text": "- Interpellation de l'individu\n- Palpation de sécurité \n- Retrait des libertés de l'individu (Menottes ou serflex)\n- Direction le poste de Police (ADAM XX / 10-19 Mission Row avec un 10-15). \n- Lecture des droits Mirandas en voiture, au poste, ou sur le lieu de l'arrestation\n- Fouille complète de l'individu\n- Vérification du recensement\n- Photo au mugshot \n- Mise en cellule \n- Faim ? Soif ? Avocat ? \n\n🚨Pour la suite, référez vous aux cas ci dessous 🚨"
-        },
-        {
-          "type": "heading",
-          "text": "Procédure standard"
-        },
-        {
-          "type": "text",
-          "text": "Vous êtes intervenu sur une intervention dite \"standard\", soit avec une peine de moins de 30 minutes de prison (Braquage de Superette, Ammu-Nation, refus d'Obtempérer, Possession illégale d'arme létale, injures, racisme...)\n\nVous énoncez les chefs d'accusation à l'individu en cellule, et lui demandez s'il plaide coupable ou non.\n\nS'il plaide coupable, vous appliquez la peine nominale, donc amende + casier sur la centrale.\nVous envoyez l'individu à Bollingbroke via les internes, en le notifiant sur l'intranet Gouvernement : Bollingbroke-state-prison. \n\n⬇️​ Motifs pour passer au cas suivant ⬇️​\n- Suspect mineur\n- Suspect handicapé mentalement \n- L'individu plaide non coupable\n- La peine indique dans le guide de la justice, \"procureur\" \n- Le suspect demande un avocat "
-        },
-        {
-          "type": "heading",
-          "text": "Comparution"
-        },
-        {
-          "type": "callout",
-          "text": "Pour les opérations suivantes : Braquage de Bijouterie, Braquage de Train, Braquage de Banque, Braquage de Yacht \nEt SEULEMENT pour ces opérations là, \n\nSi l'individu plaide coupable pour la globalité des chefs d'accusations qui lui sont reprochés, vous appliquez la peine nominale et suivez les consignes ci dessous sans effectuer de demande de comparution. "
-        },
-        {
-          "type": "text",
-          "text": "Vous êtes intervenu sur une opération de plus grande envergure (Braquage de Bijouterie, prise d'otage, Braquage de train, enlèvement & sequestration, tentative d'homicide...)\n\nJ'effectue une demande de comparution sur l'intranet Gouvernement, en indiquant : \nNom :\nPrénom : \nAgent en charge : \nAvocat : Oui ou Non @avocats (On mentionne les avocats meme si le suspect dit non)\nMotif : On liste les chefs d'accusations en VERIFIANT leur dénomination sur le code pénal ou guide de la justice\nHeure d'arrestation : \nHeure de lecture des droits : \n@procureur LSC\n\nDélais autorisés : \n- Le procureur a 10 minutes pour réagir à la comparution, sans quoi c'est un Superviseur ou Haut Gradé qui s'en occupe\n- L'avocat a 10 minutes pour réagir à la comparution, et 15 minutes avec son client une fois arrivé au poste. \n\nUne fois la comparution terminée, vous appliquez l'amende nommée par le procureur sur la fiche de comparution.\nSi le temps de prison est inférieur à 60 minutes = Demande de transfert à la SAHP\nSi le temps de prison est de 60 minutes ou + : Bracelet, puis le coupable choisit un jour de prison, et vous le notifiez dans suivi prison. \nVous rentrez dans les deux cas, le casier judiciaire sur la centrale, et appliquez l'amende. \n "
-        },
-        {
-          "type": "heading",
-          "text": "Tribunal"
-        },
-        {
-          "type": "text",
-          "text": "Vous êtes intervenu sur une opération très lourde (Terrorisme etc...), ou la peine indiquée est stipulée \"Tribunal\", alors vous placez le suspect en cellule, écrivez une demande de comparution en mentionnant la \"Cour Supreme\". Vous respectez ensuite les consignes. \n"
         }
       ]
     },
