@@ -464,6 +464,76 @@
           "text": "La formation Catégorie 3 prépare les agents à l’utilisation du Remington et de la MP5. Elle porte sur la manipulation sécurisée, la maîtrise du tir et les conditions d’emploi de ces armes en intervention. Elle rappelle les exigences de discernement, de proportionnalité et de respect des consignes opérationnelles."
         }
       ]
+    },
+    {
+      "id": "page-mvcjzy36-wsbk",
+      "title": "🎯​ Infos utiles",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Drogues"
+        },
+        {
+          "type": "text",
+          "text": "1 à 5 pochons : Consommation personnelle ===> Interdit, on saisit, mais pas d'amende ni de procédure\n6 à 50 pochons : Possession de drogue ===> Interdit, on saisit, et on amène au poste pour procédure\n51 pochons et + : Trafic de drogue ===> Interdit, on saisit et on amène au poste pour procédure\n\nVente de drogue en flagrant délit : On applique la \"vente de drogue\" et donc procédure. "
+        },
+        {
+          "type": "heading",
+          "text": "Fourrière "
+        },
+        {
+          "type": "text",
+          "text": "Motifs de mise en fourrière SAPD : \n\nVéhicule abandonné : Pas de timing\nDélit : 24h\nCrime : 72h\nEnquête : 7 jours (Sous demande du BI ou véhicule nécessaire à une enquête BI)"
+        },
+        {
+          "type": "callout",
+          "text": "Conditions de restitution : Le Propriétaire du véhicule doit vous présenter son permis de conduire, et être amendé à hauteur de 1.000$ pour les frais de fourrière. \nSi véhicule abandonné, on ajoute les 500$ de l'abandon de véhicule, soit 1.500$. "
+        },
+        {
+          "type": "heading",
+          "text": "Vitesses autorisées "
+        },
+        {
+          "type": "text",
+          "text": "En zone résidentielle : 50 km/h\nEn centre ville : 90 km/h\nSur route hors agglomération : 120 km/h\nSur autoroute : 160 km/h\n\n"
+        },
+        {
+          "type": "callout",
+          "text": "Un radar est nécessaire afin de prouver la vitesse retenue.\nSans preuve radar, merci d'appliquer la \"conduite dangereuse\"."
+        },
+        {
+          "type": "heading",
+          "text": "Quelques amendes"
+        },
+        {
+          "type": "text",
+          "text": "Conduite en sens interdit : 500$\nConduite dangereuse : 1.000$\nFranchissement de ligne continue : 500$\nCirculation dans un véhicule endommagé : 500$\nDépassement dangereux : 500$"
+        },
+        {
+          "type": "heading",
+          "text": "Palpations (Armes exclusivement)"
+        },
+        {
+          "type": "text",
+          "text": "Vous êtes autorisés à effectuer une palpation dans les cas suivants : \n- DEFCON vous le permettant\n- Procédure d'arrestation\n- Croyance raisonnable que l'individu est armé et dangereux\n "
+        },
+        {
+          "type": "callout",
+          "text": "Si sexe opposé, alors demander l'accord. Si l'accord n'est pas en vigueur, et donc refusé, vous amenez la personne au poste ou appelez un collègue du même sexe. \nSi toutefois l'individu peut paraitre dangereux, vous êtes autorisés à le menotter en attendant. "
+        },
+        {
+          "type": "heading",
+          "text": "Fouille (Complète)"
+        },
+        {
+          "type": "text",
+          "text": "Vous êtes autorisés à effectuer une palpation dans les cas suivants : \n- Marquage de chien par une unité K9\n- Controle réalisé dans le cadre d'une opération douanière avec la SAHP\n- Situation d'état d'urgence définie par la loi\n- Consentement libre et éclairé de la personne concernée\n- Prévenir une atteinte grace à la sécurité des personnes et des biens, et pour répondre à un risque immédiat\n- Placement en état d'arrestation légal\n- Placement en garde à vue "
+        },
+        {
+          "type": "callout",
+          "text": "Si sexe opposé, alors demander l'accord. Si l'accord n'est pas en vigueur, et donc refusé, vous amenez la personne au poste ou appelez un collègue du même sexe. \nSi toutefois l'individu peut paraitre dangereux, vous êtes autorisés à le menotter en attendant. "
+        }
+      ]
     }
   ]
 }
