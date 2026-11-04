@@ -104,6 +104,15 @@
           "type": "link",
           "text": "⚠️REGLEMENT INTERIEUR LSPD",
           "url": "https://docs.google.com/document/d/1xaWzYpIlzwsvT9yvAbQiQCuZbhCVeibVbgsXTZYD6mU/edit?usp=sharing"
+        },
+        {
+          "type": "text",
+          "text": ""
+        },
+        {
+          "type": "link",
+          "text": "TRAINING CENTER",
+          "url": "https://lspd-ten-codes.pages.dev/"
         }
       ]
     },
